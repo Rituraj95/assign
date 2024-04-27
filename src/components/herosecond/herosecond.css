@@ -1,0 +1,16 @@
+.herosecond{
+    height: 600px;
+    
+    background-color: #38B8FC;
+}
+.slick-slide > div{
+    margin: 0 10px;
+}
+.cla{
+    background: silver;
+}
+.slick-prev,
+.slick-next {
+    left: 1400px; /* Adjust the left position */
+    right: auto;
+}
